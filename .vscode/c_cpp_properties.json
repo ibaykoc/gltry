@@ -9,7 +9,9 @@
                 "limitSymbolsToIncludedHeaders": true
             },
             "includePath": [
-                "${workspaceFolder}/dependeincies/include"
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/dependeincies/include",
+                "usr/local/include"
             ],
             "defines": [],
             "macFrameworkPath": [

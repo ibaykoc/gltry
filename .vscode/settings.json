@@ -6,6 +6,14 @@
         "string_view": "cpp",
         "bitset": "cpp",
         "initializer_list": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "cstddef": "cpp",
+        "exception": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp"
     }
 }
